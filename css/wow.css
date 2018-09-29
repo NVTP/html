@@ -1,0 +1,9 @@
+h1{
+    color: red;
+    text-align: center;
+}
+hr{
+    background-color: blue;
+    height: 10px;
+    width: 80%;
+}
